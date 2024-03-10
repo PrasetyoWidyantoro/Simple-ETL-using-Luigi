@@ -1,0 +1,12 @@
+luigi
+pandas
+requests
+tqdm
+nltk
+numpy
+python-dateutil==2.8.2
+SQLAlchemy
+google-play-scraper
+Sastrawi
+psycopg2
+os
